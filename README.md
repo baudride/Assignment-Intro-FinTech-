@@ -1,223 +1,251 @@
-# Unit 1 Homework Assignment: FinTech Case Study
 
-## Background
-
-As a FinTech professional, it is critical to learn how FinTech companies start, evolve, and grow, and to be able to speak knowledgeably about the major players in the FinTech space. Even those in a highly technical role must stay abreast of what is happening in the business landscape, as many FinTech companies create tools and technologies that are then used by other companies.
-
-One of the key methods used to conduct corporate analysis is the **case study**. Case studies are often 50–100 pages or more, but your task is to create a more focused case study that analyzes how a Canadian FinTech company is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem in Canada.
-
-In this homework assignment, you will:
-
-* Select a FinTech domain that interests you, and then choose a Canadian company or project within that domain.
-
-* Research the domain and company.
-
-* Write a detailed case study of the company.
-
-* Upload your case study to your git repository.
-
-This assignment will challenge you to polish your FinTech research skills by accessing reports, publications, and online resources that FinTech professionals use to evaluate the industry.
-
-It will also help you situate the techniques and technologies you will be mastering in this course––e.g., machine learning, Python, modeling, blockchain––within the real world of global FinTech. Finally, it will give you practice presenting and speaking about FinTech strategy and technology.
-
+# The Solution To All Your Business Expenses Need           
 ---
 
-## Instructions
-
-### 1. Choose a FinTech domain that you find relevant or interesting
-
-**Note:** We covered a number of FinTech domains in class this week. If you already have a Canadian company in mind that you want to research, skip ahead to Step 3.
-
-* Payments/Billing
-
-* Capital Investment
-
-* Investment Management
-
-* Wealth Management
-
-* Enterprise Solutions
-
-* Insurance (InsurTech)
-
-* Mortgage/Real Estate
-
-* Personal Finance/Deposits/Online Banking
-
-* Lending
-
-* Blockchain and Cryptocurrencies
-
-* Regulation Technology (RegTech)
-
-* Open Banking
-
-* Robo-advising
-
-Remember that because FinTech is an evolving field, different FinTech reports may use different names and definitions for various domains and sectors (e.g., CB Insights, Investopedia, Accenture). In addition, you may come across lists of FinTech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
-
-### 2. Choose a Canadian company (or project) within  your chosen FinTech domain
-
-Use online research to identify the trends in your domain in the Canadian market, and choose a Canadian company that is successful or otherwise interesting to you. For example, if you chose Wealth Management, you may want to look at online journals, periodicals, reports, and websites about the future of Wealth Management, or how FinTech is changing or disrupting Wealth Management in Canada.
-
-Your company could be:
-
-* A new, emerging Canadian FinTech company that is doing well in a particular domain. Examples include Coinsquare, Borrowell, Shopify, or Finaeo.
-
-* A large incumbent financial or technology company that is doing something interesting and new with technology. Examples include National Bank of Canada Blockchain, Goldman Sachs’ Marcus, JP Morgan’s JPMCoin, Facebook Libra, and Apple Card.
-
-* A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a FinTech company in your local area or a company with a new idea that you would like to learn more about.
-
-### 3. Conduct your research, using the case study template as a guide
-
-We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
-
-**Note** If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
-
-#### Case Study Template
-
-```
-# TITLE
-
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nbNQzJOZF9Zw0_p3Sysgpbm29vGFc-MGtL7XZaSz2RLksWSK&usqp=CAU)
 ## Overview and Origin
 
-* Name of company
 
-* When was the company incorporated?
 
-* Who are the founders of the company?
 
-* How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+***When was the company incorporated?***
+
+Incorporated 2011 in Vancouver, British Colombia
+
+***Who are the founders of the company?***
+
+It was founded by Aman Mann and co-foundered by Eugene Dong and Kenneth Loi
+
+***How did the idea for the company (or project) come about?***
+
+Aman Mann has always being passionate about problem solving in life and fascinated around operations and operation management.
+Growing up around technelogy and starting working for different companies, he realizes the importance technology can have on supporting        
+organizations processes. In his own words "We’re at the stage in society where technology is a tool to take us to that next stage and a lot of these organizations weren’t leveraging these new tools to scale up into the next stage of their background." And then he decided to go back to school and learned the skills he needed,and met his two co-founders. They were all interested on digital transformation,and he explained they  started to go into more and more organizations and found that this realm of back office or this idea of process in the organization, these underlying processes that nobody was paying attention weren’t really getting the ability to transform .Also, Must organizastions didnt have a structre no traditional in place or pay attention to their expenses. This is how they come up with idea of create Procurfy.
+
+
+
+***How is the company funded? How much funding have they received?***
+
+Procurfy are part Series B round, which is a venture round finding round used for venture capital financing.Startup companies can then obtain investment from venture capitalists and other institutional investors. The availability of venture funding is among the primary stimuli for the development of new companies and technologies.
+
+Series B rounds Investors help startups get there by expanding market reach and help them grow so they can meet levels of demand.
+
+the Series B round did bring Procurify $30 million in lifetime funding in 2019, per VentureBeat. Information Venture Partners, one of Canada’s largest venture capital firms, led the round, with participation from Runa Capital, HarbourVest Partners, Manulife, and BC Tech Fund managed by Kensington Capital.
+
+
+--------
+--------
+![](https://www.afarber.com/wp-content/uploads/2019/10/ask-the-experts-1.jpg)
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+***What specific financial problem is the company or project trying to solve?***
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+   Assist companies on managing their Spend Culture by providing a combination of accessible data, convenient process, and manageable controls to streamline the request to approve process.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+   **As per their website, following are examples of services they offer**
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+   ### Customizable Approvals
+
+   Gain complete control of company purchases, and rest assured the right people are approving the right purchases. Moving to Procurify can cut approval times by weeks
+
+   ### Purchasing Workflows
+
+   Procurify streamlines requesting items, purchasing and receiving, then matching invoices to purchase orders for payment.
+
+   ### Real-Time Budget Tracking
+
+   See what portion of your budget has already been spent, and what is left, before approving your team’s request. Informed decisions helpalign spending to company goals.
+
+   ### Expenses Management
+
+   Track and control the messier spending that happens on credit cards, company or personal. Procurify removes the headache of month-end reconciliations
+
+   ### Vendor Management
+
+   Get the most from your vendor relationships. Manage your vendors in one place, track their performance, and know if their goods were received
+
+   ### Spend Analytics & Reporting
+
+   See exactly how money flows out of your company. 
+   Know who is spending, and what is purchased. Our simple reporting graphics let you see trends and overview insights.
+
+   ### Mobile Request, Approve, Receive
+
+   Don’t keep the team waiting just because you’re away from a desk. Can you have purchasing controls that also speed things up? The answer is our intuitive and full-function mobile app.
+
+   ### Audit Logs
+
+   Be prepared for an audit anytime. Procurify works in the background to capture records and change history for all purchasing documents.
+
+   ### Flexible User Permissions
+
+   Giving your users access to Procurify is simple. We’re designed for everyone on your team to use, and safely. Set granular access and create user roles depending on what needs to be done.
+
+
+
+***Who is the company's intended customer?  Is there any information about the market size of this set of customers?***
+
+Featured Customers That Trust Procurify 
+
+AlphaSights
+
+AltSchool
+
+Arizona Charter Schools Association
+
+ASCO Industries USA
+
+ASICS
+
+Atlantech Online
+
+California Medical Innovations Institute
+
+Canal Barge Company
+
+Cennox
+
+Charter Schools of Excellence
+
+CI&T
+
+Constellation Schools
+
+Excel Public Charter School
+
+Gotion
+
+HTH Companies
+
+InSphero
+
+Intrinsic Schools
+
+J. Craig Venter Institute
+
+Kinetic Sports Rehab
+
+Legacy Traditional Schools
+
+Mainstream Fiber Networks
+
+mBank
+
+Metacrine
+
+Miami Arts Charter
+
+Pave Academy
+
+Rose Country Developments Ltd.
+
+Safe Step Tubs Ltd
+
+Sahara Kuwait
+
+Samumed
+
+Sensl
+
+Stablegold Hospitality
+
+Sunrise Soya Foods
+
+Teton Mountain Lodge & Spa
+
+TJ's Oilfield Contracting Ltd
+
+Young Living Europe
+
+***What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)***
+They are not upfront about their needs or not advising the vendors when their needs change.
+
+***Which technologies are they currently using, and how are they implementing them?***
+
+Procurify following technologies:
+
+ *Application and data*
+ - Nginx
+ - Node.js
+ - Bootstrap
+
+ *Utilities*
+ - Google analytics
+ - Twilio SendGrid
+ - Mandrill
+ - Crazy Egg
+
+ *Business Tools*
+ - Gsuite
+ - Marketo
+
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+***What domain of the financial industry is the company in?***
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+Accounting and expense management,precisely in procurment software Market.
 
-* What are the other major companies in this domain?
+***What have been the major trends and innovations of this domain over the last 5-10 years?***
+
+Having the ability to instantly know your total spend in a given category, with a given supplier, or in a different currency. To be nimble and make changes as quickly as the world is changing.
+
+***What are the other major companies in this domain?***
+
+Others Major Players are Rubberstamp, Xeeva, Tradogram, Paperless Business Systems, Basware, NextProcess, InstaSupply, Ariett, Officewise, Infinite Source Systems Corporation, Gatekeeper and eBid Systems.
+_______
 
 ## Results
 
-* What has been the business impact of this company so far?
+***What has been the business impact of this company so far?***
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Communications and financial records all in one place. Allow an easy way to track items, keeping all your documents secure and easily accessible on all devices."
 
-* How is your company performing relative to competitors in the same domain?
+***What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?***
+SAAS metric
+
+***How is your company performing relative to competitors in the same domain?***
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+***If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)***
 
-* Why do you think that offering this product or service would benefit the company?
+They should offer Inventory Management and Contract Management
 
-* What technologies would this additional product or service utilize?
+***Why do you think that offering this product or service would benefit the company?***
 
-* Why are these technologies appropriate for your solution?
+To be able to have an inventory management and contract management will be bring more businesses.
+It is easy for company to loose track of what is in stock or to waste time over it when you dont have a good inventory management.
+Having a contract management will make it easier to create,track ,store,access for a company and their consumers.
+
+***What technologies would this additional product or service utilize?***
+
+***Why are these technologies appropriate for your solution?***
 ```
 
-### 4. Write the case study
 
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
-
-### 5. Upload your case study to your git repository
-
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
 
 ---
 
 ## Resources
 
-### FinTech Companies and Domains
+###
 
-For an overview of some of the most successful companies across FinTech domains, check out these resources:
+(https://kruzeconsulting.com/founders_and_friends/podcast/aman-mann-procurify-founder-and-ceo-explains-how-visibility-into-a-companys-spend-drives-success/)
 
-* [Canada has a rosy future in fintech, but obstacles remain, expert says](https://www.cpacanada.ca/en/news/innovation/2019-11-04-canada-fintech-trends)
+(https://www.procurify.com/)
 
-* [Canadian fintech adoption rate hits 50 per cent, but still trails global peers: EY](https://business.financialpost.com/technology/canadian-fintech-adoption-rate-hits-50-per-cent-but-still-trails-global-peers-ey)
+https://blog.procurify.com/2015/02/16/supply-chain-trends-interview-with-christine-galer/
 
-* [The 2019 Canadian fintech market map](https://www.pwc.com/ca/en/industries/technology/canadian-fintech-market-map.html)
+https://stackshare.io/procurify/procurify
 
-* [Canadian Fintech Industry Set to Witness Strong Grow: Report](https://fintechnews.ch/fintech/fintech-canada-report/19783/)
+https://www.capterra.com/p/129758/Procurify/
 
-* [Introducing The FinTech Landscape In Canada](http://www.industryandbusiness.ca/development-and-innovation/introducing-the-fintech-landscape-in-canada)
+https://dailyhive.com/vancouver/vancouver-startup-procurify-funding-2019
 
-* [Status of the Canadian FinTech Landscape](https://www.cfamontreal.org/static/uploaded/Files/Presentation/19-02-07-David_Nault_Rendez-Vous-Fintech_CFA-Montreal.pdf)
+https://www.featuredcustomers.com/vendor/procurify/customers
 
-* [The Canadian Fintech Ecosystem Map](https://ecosystem.formfintech.com/)
-
-* [World FinTech Report 2019, Capgemini](https://fintechworldreport.com/)
-
-* [The Most Innovative FinTech Companies in 2019, Forbes](https://www.forbes.com/fintech/2019/#5264de5a2b4c)
-
-* [The Future of FinTech and Banking, Accenture](https://www.accenture.com/us-en/insight-future-fintech-banking)
-
-* [Scanning the FinTech Landscape: 10 Disruptive Models, McKinsey & Company](https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape)
-
-### Research Material
-
-As you research your company, you may find these types resources to be useful:
-
-* The company’s website
-
-* The company’s blog
-
-* Company press releases (These can often be found on the Press page of the company's website, or via Google search.)
-
-* Websites of competitors
-
-* FinTech blogs and/or podcasts
-
-* Interviews with the company’s founders, CTOs, or project leads
-
-* Reports devoted to the particular FinTech domain you are focusing on (e.g.,  FinTech in the mortgage industry)
-
-* [Forbes](https://www.forbes.com/fintech/#39ae67bc13f1)
-
-* [McKinsey & Company](https://www.mckinsey.com/featured-insights/fintech)
-
-* [Reuters](https://www.reuters.com/news/archive/RCOMUS_Fintech)
-
-* [TechCrunch](https://techcrunch.com/tag/fintech/)
-
-* [Deloitte](https://www2.deloitte.com/us/en/pages/risk/articles/fintech-trends-insights.html)
-
-* [Built In](https://builtin.com/fintech)
-
-* [FinTech Weekly](https://www.fintechweekly.com/)
-
-* [KPMG](https://home.kpmg/us/en/home/industries/financial-services/fin-tech.html)
-
-* [Stackshare](https://stackshare.io/)
-
-* [Crunchbase](https://www.crunchbase.com/hub/fintech-startups#section-overview)
-
-* [Angelist](https://angel.co/finance-technology)
-
----
-
-## Submission
-
-* Create a repository for this homework on GitHub.
-
-* Upload the README file containing your case study report to this repository.
-
-* Submit the link to your GitHub repository to Bootcamp Spot.
-
----
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+https://galusaustralis.com/2020/03/539893/procurement-software-market-growing-demand-rapidly-2020-with-major-players-xeeva-tradogram-procurify-basware-nextprocess-instasupply-ariett/
